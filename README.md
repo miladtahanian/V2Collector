@@ -13,6 +13,7 @@ ShadowSocks        |https://raw.githubusercontent.com/miladtahanian/V2rayCollect
 Trojan |https://raw.githubusercontent.com/miladtahanian/V2rayCollector/main/trojan_iran.txt|
 Vless|https://raw.githubusercontent.com/miladtahanian/V2rayCollector/main/vless_iran.txt|
 Mixed (configs of this are different)|https://raw.githubusercontent.com/miladtahanian/V2rayCollector/main/mixed_iran.txt|
+Working(tested configurations by myself)|https://raw.githubusercontent.com/miladtahanian/V2rayCollector/main/working.txt|
 
 
 # Donations!
